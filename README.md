@@ -1,1 +1,1 @@
-# manim-agent
+# svg-agent
