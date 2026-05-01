@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+models/
+scripts/
+output/render_*.png
+output/temp_*.svg
+uv.lock
