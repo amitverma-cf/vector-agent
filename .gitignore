@@ -2,8 +2,9 @@
 __pycache__/
 *.pyc
 .env
-models/
+output*
 scripts/
 output/render_*.png
 output/temp_*.svg
 uv.lock
+.aider*
